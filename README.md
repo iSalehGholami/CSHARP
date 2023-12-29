@@ -1,6 +1,6 @@
 # My First C# Adventure
 
-![C# Logo](link_to_csharp_logo.png)
+![C# Logo](cdnlogo.com_c.svg)
 
 ## Introduction
 
